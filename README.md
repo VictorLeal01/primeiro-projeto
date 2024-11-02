@@ -1,2 +1,6 @@
-# primeiro-projeto
+# Primeiro-projeto
 Criando meu primeiro projeto
+
+...
+Criado por Victor Leal Rodrigues
+...
